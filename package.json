@@ -1,0 +1,13 @@
+{
+  "name": "note-wrangler",
+  "private": true,
+  "version": "0.0.0",
+  "license": "MIT",
+  "dependencies": {
+    "express": "~4.4.1",
+    "lodash": "^3.3.0"
+  },
+  "scripts": {
+    "start": "node app.js"
+  }
+}
